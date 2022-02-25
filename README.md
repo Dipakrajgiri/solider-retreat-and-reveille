@@ -2,10 +2,10 @@
  source code:
 
   
-  #include<iostream>
-   using namespace std;
-  int main()
-{
+       #include<iostream>
+     using namespace std;
+     int main()
+    {
     int rt,rv,sd,z,x,u,y;
     cout<<"please enter reveille time\n";
       retry:
@@ -81,6 +81,4 @@
      printf("retreat time is %02d%02d or(%d:%02d)",h,m,h1,m1);
      cout<<"\nlights out soldier";
      return 0;
-
-    
-}
+     }
