@@ -1,8 +1,10 @@
 # solider-retreat-and-reveille-time
-#include<iostream>
 
-using namespace std;
-int main()
+
+  
+  #include<iostream>
+   using namespace std;
+  int main()
 {
     int rt,rv,sd,z,x,u,y;
     cout<<"please enter reveille time\n";
